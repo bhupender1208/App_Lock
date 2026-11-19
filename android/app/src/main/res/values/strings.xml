@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="accessibility_service_label">App Lock</string>
+    <string name="accessibility_service_description">This service detects when an app selected by you is opened and displays your App Lock PIN screen. It does not read the content displayed inside other apps or collect or transmit your screen data. The notification shade, keyboard and launcher are ignored.</string>
+    <string name="device_admin_label">App Lock Anti-Uninstall Protection</string>
+    <string name="device_admin_description">Prevents App Lock from being uninstalled while this protection is active. You can turn it off at any time in Android settings. App Lock does not lock or wipe your device.</string>
+</resources>
